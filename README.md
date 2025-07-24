@@ -1,6 +1,6 @@
 # Crypto Price Prediction Streamlit App
 
-This is my first Streamlit App. I've developed this app for a quick crypto price prediction visualization. The App has two section, the first is a quick and simple price visualization, the dashboard is customizable, 
+This is my first Streamlit App. I've developed this app for a quick crypto price prediction visualization. The App has two section, the first is a quick and simple price visualization, the dashboard is customizable, the bitcoin price prediction on monthly ,weekly,daily basis .
 you can pull in raw, log as well bb and sma charts, while the section section is the real core of this application and it allows you to select a ticker (limited list of crypto) as well a range of days and/or
 year of price prediction. The range, as per app designed is limited to max 90 days or 10 years. Also the prediction section is customizable by pulling in the Facebook Prophet forecasting and components.
 
